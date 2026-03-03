@@ -92,9 +92,9 @@ For best performance:
 
 1. Open the notebook in Google Colab
 2. Go to Runtime → Change runtime type
-3. Set Hardware accelerator → GPU
+3. Set Hardware accelerator → GPU (T4 if available)
 
-Running on CPU may significantly increase training time.
+Using a GPU significantly reduces training time compared to CPU.
 
 ---
 
